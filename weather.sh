@@ -11,4 +11,4 @@ curl \
   -H "Accept-Language: $LANGUAGE" \
   -H "User-Agent: $UA" \
   -o result.png \
-  wttr.in/$CITY.png
+  wttr.in/$CITY?n
