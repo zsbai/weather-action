@@ -26,4 +26,4 @@ jobs:
           body: file://result.png
           to: 2678674519@qq.com
           from: Weather bot
-          content_type: image/png
+          content_type: text/html
